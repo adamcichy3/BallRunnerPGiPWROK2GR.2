@@ -51,6 +51,8 @@ Plugins/*/Binaries/*
 
 # Builds
 Build/*
+WindowsNoEditor/*
+[Bb]uilds/*
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
